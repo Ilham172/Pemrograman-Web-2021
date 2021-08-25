@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "Roboto";
+}
+h1 {
+	color: red;
+}
+h2 {
+	color: blue;
+}
+p {
+	color: blue;
+}
